@@ -111,7 +111,7 @@ Use the notebooks in `CXR Classification` folder to train and evaluate classific
 
 ## Contact
 
-[Giorgio Carbone](https://github.com/giocoal) - feel free to contact me!
+[Gianluca Cavallaro](https://github.com/Gianluca128) - feel free to contact me!
 
 
 ## License
